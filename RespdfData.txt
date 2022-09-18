@@ -1,0 +1,50 @@
+Mudepalli Vishnuteja
+6304798328 | vishnuteja476@gmail.com | Mancherial, mancherial, Telangana
+
+Summary
+
+Determined and self motivated student with good problem solving skills and passionate about coding. Looking for
+oppurtunities to learn and enhance my growth .
+
+Education
+
+Vignana Bharathi Institute of Technology | Hyderabad, Telangana
+Computer Science Engineering | 08/2023
+7.8
+Alphores Junior college | mancherial, Telangana
+Intemediate | 04/2019
+954
+Seven Hills High School | mancherial, Telangana
+Secondary School | 05/2017
+9.3
+
+Skills
+
+Communication, Problem solving, Data Structure and algorithms, android development
+
+Programming Languages
+
+Java, C , C++
+
+Projects
+
+EarthQuake_App :
+This app fetches data from API and displays on our device. I used USGS API to fetch EarthQuake data in JSON format and
+parsed to obtain magnitude ,place and time of earthquake occured and displays on app . I applied concepts of JSON parsing,
+HTTP Networking,Threads and parallelism, Loaders, Custom class, Custom adapter, Intents ,Listview .
+project_link
+MemeShareApp:
+This app displays memes from reddit . user can share the memes . I used Volley Library for Networking and Glide Library for
+processing Images .
+project_link
+WeatherApp:
+This app displays 5 day weather forecast of different cities in world.I used MetaWeather API for data.It displays weather by
+entering city name or city Id.It also gives city Id ,if you enter city name.
+I used concepts of VolleyLibrary,Asynchronous methods with callbacks,Desiging Singleton,JSON array request,Parse JSON
+data
+project_link
+
+Achievements
+
+I was among top 10 finalists of technical paper presentation competition Avishkar, organised by IEEE-VBIT SB in my
+freshmen year.
